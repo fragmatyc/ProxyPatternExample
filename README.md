@@ -1,0 +1,2 @@
+# ProxyPatternExample
+For demonstration purpose
