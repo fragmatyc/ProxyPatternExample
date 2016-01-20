@@ -10,3 +10,6 @@ This was done in a standalone demo with classes respecting the naming convention
 ## How to use?
 Simple clone this Git repository, import the project in Eclipse and run the UserGenderCTL class. Documentation and tutorial is done in the code as comments.
 
+## Licence
+Free to use as is. No proprietary code is there. This was developed as part of the Java Practice of CGI Quebec.
+
